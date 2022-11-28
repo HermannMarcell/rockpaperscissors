@@ -1,5 +1,5 @@
-alert("Let's play a game of Rock Paper and Scissors. The game goes on for 5 rounds.")
-game();
+//alert("Let's play a game of Rock Paper and Scissors. The game goes on for 5 rounds.")
+//game();
 
 //Gets "rock", "paper" or "scissors" randomly
 function getComputerChoice() {
@@ -30,7 +30,7 @@ function playRound(playerSelection, computerSelection) {
 
 //game itself, repeats playRound() 5 times, shows and keeps track of
 //the outcomes and alerts the final result
-
+/*
   function game() {
     let winCount = 0;
     let loseCount = 0;
@@ -55,4 +55,4 @@ function playRound(playerSelection, computerSelection) {
     }
     else alert("You won! Nice!");
   }
-
+*/

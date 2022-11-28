@@ -1,0 +1,9 @@
+div {
+    border-style: solid;
+    border: 1px, black; 
+}
+
+.infos, .playerChoice{
+    display: flex;
+}
+
